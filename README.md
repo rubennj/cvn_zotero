@@ -20,6 +20,6 @@ Se tienen que añadir previamente en "Windows Credential Locker" o equivalente u
 
 ## Instalación
 * Clonar el repositorio e instalar las siguientes dependencias  
-`conda install reportlab, keyring`
-`conda install pypdf2 -c conda-forge`
+`conda install reportlab, keyring`  
+`conda install pypdf2 -c conda-forge`  
 `pip install pyzotero`
