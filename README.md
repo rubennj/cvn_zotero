@@ -7,7 +7,7 @@ Conjunto de scripts que generan un pdf con los contenidos del CVN que los justif
 
 Tanto la key de la API de Zotero como el ID de la librería de Zotero se almacenan encriptados usando `keyring`
 Se tienen que añadir previamente en "Windows Credential Locker" o equivalente usando el comando en consola:
-> "keyring set zotero library_id"
+> "keyring set zotero library_id"  
 > "keyring set zotero api_key"
 
 ## Comentarios
