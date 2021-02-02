@@ -1,0 +1,15 @@
+# settings
+[paths]
+ZOTERO_STORAGE = C:/Users/Ruben/Zotero/storage/
+PDFTK = ../../22-progs portables/Editor PDF - PDFTKBuilderPortable/pdftk.exe
+DIR_PAPERS = papers_pdf
+DIR_DESTINO = C:/CVN meritos
+
+[zotero]
+STYLE_ZOTERO = elsevier-harvard
+COLECCION_CV_ZOTERO = CVN
+COLECCIONES_PAPERS_ZOTERO = 6.01 Publicaciones, documentos científicos y técnicos - 6.02 Trabajos presentados en congresos nacionales o internacionales - 6.04 Otras actividades de divulgación
+COLECCIONES_QUITAR_ZOTERO = 7. Actividad en el campo de la sanidad - 8. Resumen de texto libre
+
+[pdf]
+fichero_pdf_final = cvn_junto.pdf
